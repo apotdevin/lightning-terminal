@@ -620,8 +620,8 @@ github.com/lightninglabs/lndclient v0.14.0-5/go.mod h1:2kH9vNoc29ghIkfMjxwSeK8yC
 github.com/lightninglabs/lndclient v0.14.0-8/go.mod h1:YIE/Yac69hIMiq9cm/ZC2sP4F0Llv3tC4hZGfgOhdeY=
 github.com/lightninglabs/lndclient v0.14.2-3 h1:19HWiGCUNejCAm9Ffl5Y56A8u6ZDhhfyjPSDbMDmjuw=
 github.com/lightninglabs/lndclient v0.14.2-3/go.mod h1:8fu/+OAK1PqUx9oglz5p0WPOSAwKBUwrC3q3D1yi6Oo=
-github.com/lightninglabs/loop v0.18.0-beta-lnd-14 h1:rRzFxVg+IjnobqoL5sKcTEJmjor+ot7oOvcPpcPf184=
-github.com/lightninglabs/loop v0.18.0-beta-lnd-14/go.mod h1:iU3WF59r+fZglMXy+CCuQpBi2HrTXvYCEQiz3UdeWlM=
+github.com/lightninglabs/loop v0.18.0-beta-lnd-14-v2 h1:dqMqVJDFQcPlAQ0XgsC/VIwjI90VwYOEOpR5zmkXTsE=
+github.com/lightninglabs/loop v0.18.0-beta-lnd-14-v2/go.mod h1:iU3WF59r+fZglMXy+CCuQpBi2HrTXvYCEQiz3UdeWlM=
 github.com/lightninglabs/loop/swapserverrpc v1.0.0/go.mod h1:imy1/sqnb70EEyBKMo4pHwwLBPW8uYahWZ8s+1Xcq1o=
 github.com/lightninglabs/loop/swapserverrpc v1.0.1 h1:z99vrpRgQ834FC/C0Qx8HLtE0RX0WBDa1gAu7yOGPsg=
 github.com/lightninglabs/loop/swapserverrpc v1.0.1/go.mod h1:imy1/sqnb70EEyBKMo4pHwwLBPW8uYahWZ8s+1Xcq1o=

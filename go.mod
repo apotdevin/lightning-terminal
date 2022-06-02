@@ -12,7 +12,7 @@ require (
 	github.com/lightninglabs/faraday v0.2.7-alpha
 	github.com/lightninglabs/lightning-node-connect v0.1.8-alpha
 	github.com/lightninglabs/lndclient v0.14.2-3
-	github.com/lightninglabs/loop v0.18.0-beta-lnd-14
+	github.com/lightninglabs/loop v0.18.0-beta-lnd-14-v2
 	github.com/lightninglabs/loop/swapserverrpc v1.0.1
 	github.com/lightninglabs/pool v0.5.6-alpha-lnd-14
 	github.com/lightninglabs/pool/auctioneerrpc v1.0.5
